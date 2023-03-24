@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BootMRMR"]
+	path = BootMRMR
+	url = https://github.com/cran/BootMRMR
+	shallow = true
+	registered = true
+[submodule "dhga"]
+	path = dhga
+	url = https://github.com/cran/dhga
+	shallow = true
+	registered = true
